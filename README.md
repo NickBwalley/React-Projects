@@ -4,13 +4,9 @@
 
 #### Support
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
 #### Tutorial Video
 
 #### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
 
 ## Corresponding Tutorial Topics
 
