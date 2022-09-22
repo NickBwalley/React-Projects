@@ -2,14 +2,6 @@
 
 #### React Course
 
-#### Support
-
-#### Tutorial Video
-
-#### All Projects
-
-## Corresponding Tutorial Topics
-
 #### useState
 
 1. Birthday Reminder
