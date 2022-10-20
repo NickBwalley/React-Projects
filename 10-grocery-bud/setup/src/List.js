@@ -1,9 +1,9 @@
 import React from 'react'
 import { FaEdit, FaTrash } from 'react-icons/fa'
-const List = () => {
+const List = ({ items }) => {
   return (
     <div className='grocery-list'>
-      {items.map((items) => {
+      {items.map((item) => {
         const { id, title } = item
         return (
           <article key={id} className='grocery-item'>
